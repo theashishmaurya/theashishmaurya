@@ -41,7 +41,7 @@ Currently building [ryvAI](https://ryvai.platformnx.com) — an AI code reviewer
 
 ## Writing
 
-I write about frontend engineering, performance, and AI tooling at **[blog.theashishmaurya.me](https://blog.theashishmaurya.me)**
+I write about frontend engineering, performance, and AI tooling at **[theashishmaurya.medium.com](https://theashishmaurya.medium.com)**
 
 Recent posts:
 - [How to Minimize React Bundle Size for Faster Loading Times](https://blog.theashishmaurya.me/how-to-minimize-react-bundle-size-for-faster-loading-times)
@@ -52,5 +52,5 @@ Recent posts:
 
 [![Twitter](https://img.shields.io/badge/@theysaymaurya-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/theysaymaurya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/theashishmaurya)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=hashnode&logoColor=white)](https://blog.theashishmaurya.me)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=medium&logoColor=white)](https://theashishmaurya.medium.com)
 [![Email](https://img.shields.io/badge/ashish.1999vns@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashish.1999vns@gmail.com)
