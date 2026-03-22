@@ -41,10 +41,14 @@ Currently building [ryvAI](https://ryvai.platformnx.com) — an AI code reviewer
 
 ## Writing
 
-I write about frontend engineering, performance, and AI tooling at **[theashishmaurya.medium.com](https://theashishmaurya.medium.com)**
+I write about AI tooling, frontend engineering, and building things at **[theashishmaurya.medium.com](https://theashishmaurya.medium.com)**
 
 Recent posts:
-- [How to Minimize React Bundle Size for Faster Loading Times](https://blog.theashishmaurya.me/how-to-minimize-react-bundle-size-for-faster-loading-times)
+- [I Built a Personal Career OS with Claude Code, LaTeX, and On-Device RAG](https://theashishmaurya.medium.com/i-built-a-personal-career-os-with-claude-code-latex-and-on-device-rag-5550e3486f7d)
+- [How We Fixed LLM Hallucination and the Context Problem with Multi-Agent Architecture](https://theashishmaurya.medium.com/how-we-fixed-llm-hallucination-and-the-context-problem-with-multi-agent-architecture-c94907e955ef)
+- [The Deduplication Problem Nobody Talks About in Multi-Agent AI](https://theashishmaurya.medium.com/the-deduplication-problem-nobody-talks-about-in-multi-agent-ai-d74a15a9df36)
+- [Amazon Just Made Senior Engineers Sign Off on AI Code — And I Get It](https://theashishmaurya.medium.com/amazon-just-made-senior-engineers-sign-off-on-ai-code-and-i-get-it-9b33eefd6617)
+- [When AI Writes Software, Who Verifies It?](https://theashishmaurya.medium.com/when-ai-writes-software-who-verifies-it-5e318f5969cf)
 
 ---
 
